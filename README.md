@@ -1,4 +1,0 @@
-RfidMega
-========
-
-Arduino Rfid Library

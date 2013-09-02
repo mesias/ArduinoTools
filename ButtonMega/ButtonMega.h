@@ -1,5 +1,5 @@
-#ifndef BlueMega_h
-#define BlueMega_h
+#ifndef ButtonMega_h
+#define ButtonMega_h
 
 #include "Arduino.h"
 

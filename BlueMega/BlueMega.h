@@ -17,8 +17,6 @@ class BlueMega
         void configStateChange(void (*stateChange)(int));
         void startInquiry();
         void process();
-        byte read();
-        byte write();
         SoftwareSerial* ssp;
         static const uint8_t BT_INITIAL =  0;
         static const uint8_t BT_READY      = 1;

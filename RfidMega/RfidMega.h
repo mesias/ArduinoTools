@@ -29,7 +29,7 @@ class RfidMega
         byte buzzer[8] = { 0xAA, 0x00, 0x03, 0x89, 0x0A, 0x01, 0x81, 0xBB};
         HardwareSerial* hsp;
         byte** matrix; 
-        int arrayRows=20;
+        int arrayRows=32;
         int arrayCols=4;
         int msize=-1;
         byte _state;

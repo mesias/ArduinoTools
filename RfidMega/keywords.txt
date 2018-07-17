@@ -1,9 +1,9 @@
-RfidMega            KEYWORD1
-begin               KEYWORD2
-configWarnings      KEYWORD2
-configRepeatCtrl    KEYWORD2
-configReadLoop      KEYWORD2
-startReadLoop       KEYWORD2
-stopReadLoop        KEYWORD2
-process             KEYWORD2
+RfidMega	KEYWORD1
+begin	KEYWORD2
+configWarnings	KEYWORD2
+configRepeatCtrl	KEYWORD2
+configReadLoop	KEYWORD2
+startReadLoop	KEYWORD2
+stopReadLoop	KEYWORD2
+process	KEYWORD2
 
